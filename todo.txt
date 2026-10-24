@@ -1,0 +1,6 @@
+initial script does not open python session as interactive and auto-fills things breaking it
+pacstrap --noconfirm needs removal
+pacman hooks and sddm conf broken on copy
+os-prober does not run and detect windows
+add cups support
+localepurge configs do not apply
