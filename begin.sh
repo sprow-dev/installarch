@@ -13,7 +13,7 @@ ARCHIVE_FILE="installscripts.tar.gz"
 TARGET_DIR=".SIATEMP_DONOTDELETE"
 
 echo -e "${BLUE}Downloading runtime files...${NC}"
-curl -fsSL -o "$ARCHIVE_FILE" "https://raw.githubusercontent.com/sprow-dev/installarch/main/$ARCHIVE_FILE"
+curl -fsSL -o "$ARCHIVE_FILE" "https://raw.githubusercontent.com/sprow-dev/installarch/refs/heads/main/installscripts.tar.gz"
 
 if [ -f "$ARCHIVE_FILE" ]; then
     echo -e "${BLUE}Extracting runtime files...${NC}"
