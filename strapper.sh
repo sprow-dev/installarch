@@ -1,3 +1,5 @@
+#!/bin/bash
+
 pacstrap -K --noconfirm /mnt \
     # core
     amd-ucode base dosfstools efibootmgr grub linux linux-firmware nvidia nvidia-settings nvidia-utils os-prober \
