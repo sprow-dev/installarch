@@ -1,6 +1,6 @@
-# >=run this to do=--------------------===>v
-# ^    curl -fsSL link_here | sudo bash    v
-# ^=------------------------------------===>>>>>
+# >=run this to do=----------------------------------------------------------------------------------===>v
+# ^  curl -fsSL https://raw.githubusercontent.com/sprow-dev/installarch/refs/heads/main/begin.sh | bash  v
+# ^=--------------------------------------------------------------------------------------------------===>>>>>
 
 from dataclasses import dataclass, field
 import shutil
