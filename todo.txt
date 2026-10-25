@@ -8,3 +8,4 @@ fix bashrc copy
 tailscale is not enabled by default
 add gimp to default
 auto-apply visual configs when home formatted
+ssh is not configured out-of-the-box with secure settings like moving port from 22
