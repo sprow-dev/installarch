@@ -7,3 +7,4 @@ localepurge configs do not apply
 fix bashrc copy
 tailscale is not enabled by default
 add gimp to default
+auto-apply visual configs when home formatted
