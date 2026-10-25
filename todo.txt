@@ -6,3 +6,4 @@ add cups support
 localepurge configs do not apply
 fix bashrc copy
 tailscale is not enabled by default
+add gimp to default
