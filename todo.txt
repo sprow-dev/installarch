@@ -3,7 +3,7 @@ pacstrap --noconfirm needs removal
 pacman hooks and sddm conf broken on copy
 os-prober does not run and detect windows
 add cups support
-localepurge configs do not apply
+remove localepurge hook and installation
 fix bashrc copy
 tailscale is not enabled by default
 add gimp to default
