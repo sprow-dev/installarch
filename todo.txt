@@ -11,3 +11,6 @@ auto-apply visual configs when home formatted
 ssh is not configured out-of-the-box with secure settings like moving port from 22
 systemd-timesyncd is not enabled by default
 install npm and live-server by default
+add cuda to base install
+update mirrorlist with new on install
+virtualbox not installed by default
