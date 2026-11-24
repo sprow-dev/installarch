@@ -14,3 +14,4 @@ install npm and live-server by default
 add cuda to base install
 update mirrorlist with new on install
 virtualbox not installed by default
+no bluetooth support by default
